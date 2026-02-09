@@ -68,7 +68,7 @@ Here we can keep track of what mods have been added and what version a contribut
 | [Better End Ore](https://modrinth.com/mod/better-end-ore) | 1.0.3 | Fully Added |
 | [Better Tridents](https://modrinth.com/mod/better-tridents) | 8.0.1 | Fully Added | # This mod only adds a single item
 | [BetterArcheology](https://www.curseforge.com/minecraft/mc-mods/better-archeology) | 1.2.1 | Blocks Only |
-| [BetterEnd](https://modrinth.com/mod/betterend) | 4.0.11 | Fully Added |
+| [BetterEnd](https://modrinth.com/mod/betterend) | 4.0.11 | Fully Added | # Miscellaneous items added
 | [BetterNether](https://modrinth.com/mod/betternether) | 9.0.10 | Fully Added |
 | [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) | 2.4.6 | Partial Support | # Lots of block entities in this mod
 | [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors) | | Fully Added |
@@ -109,7 +109,7 @@ Here we can keep track of what mods have been added and what version a contribut
 | [ChocoCraft Plus](https://modrinth.com/mod/chococraft-plus) | 4.5.8 | Fully Added |
 | [Chocolate Quest Repoured](https://www.curseforge.com/minecraft/mc-mods/cqrepoured)| 2.6.15B | Blocks Only |
 | [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) | 1.2.8 | Fully Added | # Why doesn't these loaders get effect by any ID??
-| [Cinderscapes](https://modrinth.com/mod/cinderscapes) | 5.2.0 | Fully Added |
+| [Cinderscapes](https://modrinth.com/mod/cinderscapes) | 5.2.0 | Fully Added | # Moved some blocks from 1.12.2- to 1.13+ that were probably there by mistake; Cinderscapes doesn't have a 1.12.2 version.
 | [Clockwork](https://modrinth.com/mod/create-clockwork) | | Miniscule |
 | [Cobblemon](https://modrinth.com/mod/cobblemon) | | Partial Support | # Someone should see if the entities look good
 | Colight | | Fully Added |
@@ -253,6 +253,7 @@ Here we can keep track of what mods have been added and what version a contribut
 | [Handcrafted](https://modrinth.com/mod/handcrafted/gallery) | | Miniscule |
 | [Handcrafted](https://modrinth.com/mod/handcrafted) | 4.0.3 | Fully Added |
 | [Haunted Harvest](https://modrinth.com/mod/haunted-harvest) | | Fully Added |
+| [Healing Pretty Good](https://modrinth.com/mod/healing-pretty-good) | 1.5.3 | Fully Added |
 | [Hearth & Home](https://modrinth.com/mod/hearth-and-home) | 2.0.3 | Fully Added |
 | [Hephaestus](https://modrinth.com/mod/hephaestus) | 3.6.4.287 | Fully Added |
 | [Hexxit Gear](https://www.curseforge.com/minecraft/mc-mods/hexxit-gear) | 2.8.3 | Foliage Only |
